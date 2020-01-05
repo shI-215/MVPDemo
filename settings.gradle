@@ -1,0 +1,2 @@
+include ':app', ':mvcdemo', ':mvpdemo2', ':mvvmdemo', ':mvvmdemo2'
+rootProject.name='MVPDemo'
